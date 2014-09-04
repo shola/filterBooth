@@ -1,7 +1,7 @@
 career-fair-winnower
 ====================
 
-Ruthlessly decide which employers to ignore at crowded high-tech career fairs based only on their GlassDoor rating.
+Mindlessly decide which employers to ignore at crowded high-tech career fairs based only on their GlassDoor rating.
 
 To run, enter this into the terminal: <code>python3.4 career_fair_researcher.py</code>
 
