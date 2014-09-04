@@ -1,0 +1,83 @@
+219 Design, LLC 
+8x8, Inc. 
+Acxiom 
+Agilone 
+AppDirect 
+Apple, Inc. 
+AT&T Big Data 
+BCG Digital Ventures 
+BD Biosciences 
+Blend Labs 
+BMC Software 
+Certify Data Systems, Inc. 
+Clover Network Inc. 
+DataStax 
+Delphi 
+Dot & Bo Inc. 
+DoubleDutch 
+End-to-End Analytics 
+ENVIRON International Corporation 
+Epoxy Inc 
+Esri 
+Eventbrite 
+Exponent 
+Financial Engines 
+FLUC 
+Glooko 
+Guidebook Inc. 
+Guidewire Software 
+IMVU, Inc. 
+In-Q-Tel 
+Inscopix 
+Intentional Software 
+Intuitive Surgical 
+IXL Learning, Inc. 
+KeepSafe 
+KLA-Tencor Corporation 
+Lam Research Corporation 
+LARK 
+Laserlike 
+Lawrence Livermore National Laboratory 
+Machine Zone 
+Microsoft Corporation 
+Mirantis Inc. 
+MoSys 
+NativeX 
+Nest 
+Next Issue Media 
+Okta, Inc. 
+ooma, Inc. 
+Orbeus Inc. 
+Palo Alto Networks 
+Patreon 
+PerceptiMed, Inc. 
+Platform9 Systems, Inc 
+Play-i 
+Quirky 
+RiskIQ 
+Robinhood 
+Sandia National Laboratories 
+Santa Clara Law 
+Sciton Inc. 
+Simply Hired, Inc. 
+SK hynix memory solutions 
+SLAC National Accelerator Laboratory 
+SolarCity 
+Stitch Fix 
+SugarCRM 
+Tesla Motors 
+The Climate Corporation 
+Theranos, Inc. 
+Think Surgical 
+Ticketfly 
+Tile, Inc. 
+True Circuits, Inc. 
+U.S. Department of State, Bureau of Diplomatic Security 
+Uber 
+Ventana Medical Systems 
+Visa Inc. 
+Wiss, Janney, Elstner Associates, Inc. 
+xAd 
+Zazzle 
+Zenefits 
+Zynga 
