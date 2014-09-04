@@ -29,11 +29,12 @@ def glassdoor_rate():
 
     companies = open('companyList.txt', 'r')
     companies_ratings = open('glassdoorRatings.txt', 'w+')
+    companies_ratings.write('Company Name' + '\t' + 'Rating' + '\n')
 
     for co in companies:
         co = co.replace('\n', '')
-        co_url = next(google.search('glassdoor' + co))
-        print('searching google for {0}| parsing --> {1}'.format(co, co_url))
+        co_url = next(google.search('glassdoor review' + co))
+        print('processing {0}[{1}]'.format(co, co_url))
 
         # i'm a human, not a robot.
         req = Request(co_url, headers={'User-Agent' : 'Mozilla/5.0'})
@@ -46,7 +47,7 @@ def glassdoor_rate():
             # the BeautifulSoup search failed, there is no rating on this page
             rating = '-1'
         finally:
-            print('saved: {0} {1} {2} {3}'.format(co, '\t', rating, '\n'))
+            print('saved: {0} {1} {2} {3}'.format(co, '|', rating, '\n'))
             companies_ratings.write(co + '\t' + rating + '\n')
 
 if __name__ == "__main__":
